@@ -17,3 +17,4 @@ public interface SampleMapper {
 			@Param("id") String id,
 			@Param("pw") String pw);
 }
+
